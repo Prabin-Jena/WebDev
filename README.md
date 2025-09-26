@@ -26,7 +26,7 @@ Welcome to my portfolio repository! Here you'll find configuration files and cod
 
 ### 📫 Connect With Me
 
-- GitHub: [SibunJena](https://github.com/SibunJena)
+- GitHub: [Prabin Jena](https://github.com/Prabin-Jena)
 - Email: prabinjena15@gmail.com
 - Portfolio: https://sibunjena.github.io/WebDev/
 
