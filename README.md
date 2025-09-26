@@ -1,4 +1,4 @@
-## 🌐 Sibun Jena's WebDev Portfolio
+## 🌐 Prabin's WebDev Portfolio
 
 Welcome to my portfolio repository! Here you'll find configuration files and code samples that showcase my web development skills, primarily in **CSS** and **HTML**.
 
